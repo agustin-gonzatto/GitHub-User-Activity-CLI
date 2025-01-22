@@ -17,12 +17,12 @@ This project is a simple command-line interface (CLI) application that fetches a
 Run the application from the command line, providing the GitHub username as an argument:
 
 ```bash
-java github-activity <username>
+java GuitHubUserActivity <username>
 ```
 
 ### **Example**
 
 Command:  
 ```bash
-java github-activity kamranahmedse
+java GuitHubUserActivity kamranahmedse
 ```
